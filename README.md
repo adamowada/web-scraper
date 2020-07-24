@@ -1,2 +1,2 @@
-# Lab 17 - Web Scrapper
+# Lab 17 - Web Scraper
 ### Adam Owada
